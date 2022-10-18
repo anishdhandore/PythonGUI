@@ -1,1 +1,2 @@
-# A Python Workshop for Creating a GUI. Implementing this using the Rock, Paper, and Scissor's Game!
+# A Python Workshop for Google's Developers Student Club at CSUSM
+## Python GUI Development using Tkinter 
